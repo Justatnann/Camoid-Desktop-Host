@@ -1,0 +1,24 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+.venv/
+venv/
+env/
+ENV/
+
+# Python caching (Speeds up execution, but clutters Git)
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# IDE configuration folders
+.vscode/
+.idea/
+
+dist/
+build/
+*.egg-info/
+*.spec
