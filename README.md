@@ -4,9 +4,8 @@ A desktop client application built in Python for the Camoid ecosystem.
 
 ## Features
 
-- **Feature 1**: Brief description of a key capability.
-- **Feature 2**: Brief description of a key capability.
-- **Feature 3**: Brief description of a key capability.
+- **Feature 1**: Start Connection securely for video stream.
+- **Feature 2**: Host connection termination
 
 ## Prerequisites
 
